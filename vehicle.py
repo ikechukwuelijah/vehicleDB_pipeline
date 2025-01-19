@@ -25,7 +25,7 @@ print(response.json())
 #%%
 print(json_data)
 
-###################################################################################
+##################################################################################
 
 #%% step 2: transform the data into a pandas dataframe
 # import the pandas library for data manipulation
