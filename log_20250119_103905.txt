@@ -1,0 +1,6 @@
+2025-01-19 10:39:05,684 - INFO - Script started.
+2025-01-19 10:39:05,687 - INFO - Attempting to connect to the database for uploading data.
+2025-01-19 10:39:05,747 - INFO - Uploading data to table: vehicle_table
+2025-01-19 10:39:06,092 - INFO - Data uploaded successfully to vehicle_table.
+2025-01-19 10:39:06,093 - INFO - Data uploaded successfully.
+2025-01-19 10:39:06,094 - INFO - Script ended.
