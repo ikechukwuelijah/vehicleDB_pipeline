@@ -11,7 +11,7 @@ querystring = {"year":"2020","make":"Toyota","data":"warranty"}
 
 # Headers include the API key and host for authentication and identification
 headers = {
-	"x-rapidapi-key": "531193f132msh71720d21c9c014ap118541jsn0984870f4075",
+	"x-rapidapi-key": "",
 	"x-rapidapi-host": "vehicle-database.p.rapidapi.com"
 }
 
